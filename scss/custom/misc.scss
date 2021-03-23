@@ -1,0 +1,23 @@
+$duke-blue: #012169;
+
+
+header {
+	background-color: $duke-blue;
+	color: white;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+.navbar-brand a.site-title:hover {
+	color: white;
+}
+
+.navbar-brand a.site-title {
+	color: white;
+}
+
+.navbar-nav .nav-link {
+	color: white;
+}
